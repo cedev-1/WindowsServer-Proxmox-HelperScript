@@ -394,6 +394,8 @@ VIRTIO_FILE="virtio-win.iso"
 ISO_PATH="/var/lib/vz/template/iso/$ISO_FILE"
 VIRTIO_PATH="/var/lib/vz/template/iso/$VIRTIO_FILE"
 
+# https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022
+# Use this link to find iso
 URL_ISO_WINDOWS="https://software-static.download.prss.microsoft.com/sg/download/888969d5-f34g-4e03-ac9d-1f9786c66749/SERVER_EVAL_x64FRE_en-us.iso"
 URL_VIRTIO="https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/stable-virtio/virtio-win.iso"
 #------------------------------------------------------------------------------
